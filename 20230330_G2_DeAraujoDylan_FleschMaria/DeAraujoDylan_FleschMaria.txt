@@ -1,0 +1,7 @@
+Au lancement de notre jeu, des ballons rouges apparaissent. 
+En bas de l'écran, le nombre de points accumulés est affiché. 
+Un bouton "Restart" en haut de l'écran permet de relancer la partie.
+
+Le but est d'éclater tous les ballons pour gagner. 
+La partie s'arrête quand tous les ballons sont éclatés.
+
